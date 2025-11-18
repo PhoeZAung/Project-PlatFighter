@@ -1,0 +1,36 @@
+# ===== Unity Generated Folders =====
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.booproj
+*.svd
+*.pdb
+
+# ===== OS Generated Files =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Visual Studio / Rider / IDE =====
+.vscode/
+.idea/
+*.code-workspace
+
+# ===== Auto-generated Unity files =====
+*.tmproj
+*.unitypackage
+
+# ===== Optional: Packages / Cache =====
+# Cache and package manager folders can be ignored, but include Packages/manifest.json
+Packages/packages-lock.json
